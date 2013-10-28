@@ -25,11 +25,11 @@ img { outline: 0; border: 0; }
 			#menu li a.current, #menu li a:hover { color: #fff; }			
 	#pitch { clear: both; background: url("pitch.jpg") no-repeat; height: 290px; margin: 0 0 30px; padding: 30px 360px 0 30px; }
 		#pitch h1 { font-size: 1.5em; color: #000000; margin: 0 0 20px; position:relative; left:350px; top:-30px; }
-		#pitch em { font-size: 2.3em; font-weight: bold; line-height: 1.6em;}
-		#pitch h2 {font: normal 1.4em "Trebuchet MS", Helvetica, Arial; color: #000000; position:relative; left:350px; top:0;}
+		#pitch em { font-size: 1.7em; font-weight: bold; line-height: 1.6em;}
+		#pitch h2 {font: normal 2.0em "Trebuchet MS", Helvetica, Arial; color: #000000; position:relative; left:350px; top:0;}
 		#pitch h3 {font: normal 2.7em "Pertili", Helvetica, Arial; color: #000000;position: relative; left:350px; top:1;}
 .content { background: url("content.gif") repeat; padding: 20px; }
-.link { background: #304D6F; color: #fff; padding: 5px 10px; font-size: .9em; float:right }
+.link { background: #304F6F; color: #fff; padding: 5px 10px; font-size: .9em; float:right }
 #main { padding: 20px; }
 .col { float: left; width: 292px; margin: 0 30px 15px 0; }
 	.col.last { float: right; margin-right: 0; }
@@ -49,5 +49,5 @@ img { outline: 0; border: 0; }
 	float:right;
 	position: relative;
 	left: -530px;
-	top: -200px;
+	top: -220px;
 }
