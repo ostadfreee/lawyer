@@ -11,8 +11,8 @@ end
  
    root  'static_pages#home'
    match '/law',   to: 'static_pages#law',   via: 'get'
-   match '/contact', to: 'static_pages#contact', via: 'get' 
-   #match '/contact' , to: 'inquiries#new', via: 'get'
+   #match '/contact', to: 'static_pages#contact', via: 'get' 
+   match '/contact' , to: 'inquiries#new', via: 'get'
 
    match '/university', to: 'static_pages#university', via: 'get' 
      

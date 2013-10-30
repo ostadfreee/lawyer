@@ -51,3 +51,12 @@ img { outline: 0; border: 0; }
 	left: -530px;
 	top: -220px;
 }
+.row {
+	float:right;
+	position : relative;
+	left: 0px;
+	top: -230px;
+	direction:rtl;
+	text-align:right;
+
+}
