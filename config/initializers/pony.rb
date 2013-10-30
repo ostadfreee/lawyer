@@ -5,8 +5,8 @@ Pony.options = {
     :address              => 'smtp.gmail.com',
     :port                 => '587',
     :enable_starttls_auto => true,
-    :user_name            => 'ostadfree',
-    :password             => 'freekhan1234',
+    :user_name            => 'abasshahravan1',
+    :password             => 'bokhariyearj',
     :authentication       => :plain, # :plain, :login, :cram_md5, no auth by default
     #:domain               => "http://warm-caverns-6097.herokuapp.com" # the HELO domain provided by the client to the server
   }
